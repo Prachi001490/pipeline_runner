@@ -1,0 +1,15 @@
+# Ignore C++ source and object files
+*.o
+
+# Ignore build directories
+build/
+
+# Ignore git files
+.git/
+.gitignore
+.gitmodules
+
+# Ignore editor/project files
+*.swp
+*.swo
+*.vscode/

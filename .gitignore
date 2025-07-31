@@ -1,0 +1,15 @@
+# Build and output directories
+build/
+output/
+
+# Compiled object files and binaries
+*.o
+
+# Editor and OS files
+*.swp
+*.swo
+*.vscode/
+.DS_Store
+
+# Git
+.gitmodules
